@@ -1,6 +1,7 @@
 module.exports = {
 
   title: 'VS code Extension',
+  base: '/vscode-extensions-docs/',
   themeConfig: {
     logo: "/assets/img/logo.png",
     // sidebar: "auto",
